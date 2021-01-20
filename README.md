@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- Hi, My Name is Jessie Boy Velarde and I am a Bachelor of Computer Science Graduated In Asian Institute Of Computer Studies In Philippines.
+- Hi, My Name is Jessie Boy Velarde and I am a Bachelor of Computer Science Graduated at Asian Institute Of Computer Studies Philippines.
 
 - 🔭 I’m Currently Working On Projects And Stuff To Enchanced My Coding Skills
 
@@ -12,7 +12,7 @@
 
 
 <!--
-*Eddz123/Eddz123* is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
+*Kingkira777/Kingkira777* is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
 <!-- 
 Here are some ideas to get you started:
 
