@@ -5,7 +5,7 @@
 - 🔭 I’m Currently Working On Projects And Stuff To Enchanced My Coding Skills
 
 - 📫 How to reach me: You Can Check My Portfolio Here 
-- [My Portfolio Website](https://eddz123.github.io/Myportfolio/)
+- [My Portfolio Website](https://kingkira777.github.io/)
 
 [![Jessie Boy Velarde Github States](https://github-readme-stats.vercel.app/api?username=kingkira777&show_icons=true&theme=dracula)](https://github.com/kingkira777/github-readme-stats)
 
