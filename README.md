@@ -9,6 +9,8 @@
 
 [![Jessie Boy Velarde Github States](https://github-readme-stats.vercel.app/api?username=kingkira777&show_icons=true&theme=dracula)](https://github.com/kingkira777/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kingkira777&layout=compact)](https://github.com/kingkira777/github-readme-stats)
+
 
 
 <!--
